@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Allie &amp; DoctorHouse" APIVersion="9" Name="Accountability" Description="An addon to help coordinate interrupts between party members." Version="">
+    <Script Name="Accountability.lua"/>
+    <Script Name="Accountability_UI.lua"/>
+    <Form Name="Accountability.xml"/>
+</Addon>
